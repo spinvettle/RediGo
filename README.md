@@ -6,7 +6,7 @@
 
 [![Go Version](https://img.shields.io/badge/Go-1.22%2B-blue?logo=go)](https://golang.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/RediGo/ci.yml?branch=main)](https://github.com/your-username/RediGo/actions)
+
 
 ---
 
